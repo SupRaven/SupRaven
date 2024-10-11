@@ -1,6 +1,6 @@
 <div align="center">
 <img src="https://media1.tenor.com/m/pf2P6_96V80AAAAC/animated-anime.gif" width="30%" align="right" />
-<img src="https://readme-typing-svg.demolab.com/?font=Protest+Guerrilla+&pause=4000&color=7C36F7&background=FFFFFF00&center=true&vCenter=true&width=440&lines=It's+me+Raven!+Nice+to+meet+you~" width="70%" />
+<img src="https://readme-typing-svg.demolab.com?font=ProtestGuerrilla&pause=2000&color=F76362&width=435&lines=Hello%2C+It's+raven+this+side!" width="70%" />
 <br><br>
 <pre>
      Just a student
