@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://media1.tenor.com/m/pf2P6_96V80AAAAC/animated-anime.gif" width="30%" align="right" />
+<img src="https://i.pinimg.com/originals/84/b2/d2/84b2d2bb17e1fedd394c37d6d2a38e19.png" width="28%" align="right" />
 <img src="https://readme-typing-svg.demolab.com?font=ProtestGuerrilla&pause=2000&color=F76362&width=435&lines=Hello%2C+It's+raven+this+side!" width="70%" />
 <br><br>
 <pre>
