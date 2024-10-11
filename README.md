@@ -9,7 +9,7 @@
      Music • Games • Anime • Coding 
 </pre>
 <br><br>
-<img src="https://media.tenor.com/YOphBzO0MfoAAAAi/japanese-animation.gif" height="120" />
+<img src="https://media.tenor.com/Bk-Kb5juWGoAAAAi/dance-anime.gif" height="180" />
 <br><br><br>
 
 </div>
